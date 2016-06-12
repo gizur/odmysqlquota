@@ -1,0 +1,28 @@
+{
+  "name": "odmysqlquota",
+  "version": "0.0.1",
+  "description": "Simple odataserver module that check quotas",
+  "main": "odmysqlquota.js",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gizur/odmysqlquota.git"
+  },
+  "keywords": [
+    "Quotas",
+    "Connect",
+    "MySQL"
+  ],
+  "author": "Jonas Colmsjö",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gizur/odmysqlquota/issues"
+  },
+  "homepage": "https://github.com/gizur/odmysqlquota#readme"
+}
